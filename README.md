@@ -1,6 +1,6 @@
 # SuperHero-Hunter
-A Super Hero  app developed using superhero API
-Hosted Link :   https://gknanhe.github.io/SuperHero-Hunter/
+#A Super Hero  app developed using superhero API
+#Hosted Link :   https://gknanhe.github.io/SuperHero-Hunter/
 
 # Marvel-search-engine
 This project is on Marvel superhero search engine. Two APIs has been used here are - Super Hero API and Marvel API. 
